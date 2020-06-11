@@ -21,6 +21,80 @@
         "value": 234,
         "name": "Closed"
       }
+    ],
+    "barChartData": [
+      {
+        "month": "Jan",
+        "New": 43.3,
+        "Open": 85.8,
+        "Closed": 93.7
+      },
+      {
+        "month": "Feb",
+        "New": 83.1,
+        "Open": 73.4,
+        "Closed": 55.1
+      },
+      {
+        "month": "Mar",
+        "New": 86.4,
+        "Open": 65.2,
+        "Closed": 82.5
+      },
+      {
+        "month": "Apr",
+        "New": 72.4,
+        "Open": 53.9,
+        "Closed": 39.1
+      },
+      {
+        "month": "May",
+        "New": 43.3,
+        "Open": 85.8,
+        "Closed": 93.7
+      },
+      {
+        "month": "Jun",
+        "New": 83.1,
+        "Open": 73.4,
+        "Closed": 55.1
+      },
+      {
+        "month": "Jul",
+        "New": 86.4,
+        "Open": 65.2,
+        "Closed": 82.5
+      },
+      {
+        "month": "Aug",
+        "New": 72.4,
+        "Open": 53.9,
+        "Closed": 39.1
+      },
+      {
+        "month": "Sep",
+        "New": 83.1,
+        "Open": 73.4,
+        "Closed": 55.1
+      },
+      {
+        "month": "Oct",
+        "New": 86.4,
+        "Open": 65.2,
+        "Closed": 82.5
+      },
+      {
+        "month": "Nov",
+        "New": 72.4,
+        "Open": 53.9,
+        "Closed": 39.1
+      },
+      {
+        "month": "Dec",
+        "New": 72.4,
+        "Open": 53.9,
+        "Closed": 39.1
+      }
     ]
   }
 }
