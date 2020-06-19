@@ -96,5 +96,75 @@
         "Closed": 39.1
       }
     ]
+  },
+  "mockMessages": {
+    "messages": [
+        {
+          "sender": {
+              "id": "3539866132696948"
+          },
+          "recipient": {
+              "id": "105304157880429"
+          },
+          "timestamp": 1592529827084,
+          "message": {
+              "mid": "m_Onszn_Jj1-_rASpL_-0kl2KASNgVFl09f1aE0qI-xozZrMNV4n1YGn902cKmWW5QA3WR54kqgrLz5ahvO1MtNg",
+              "attachments": [
+                  {
+                      "type": "image",
+                      "payload": {
+                          "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/104478562_725989284819140_6503934961170391147_n.png?_nc_cat=108&_nc_sid=b96e70&_nc_oc=AQlQUJBtoNPvBVsc2vObRAeSPNmSxh9pZy0nyjsK5qAEuazwdxn6tw2V6qR5a9YCg-8-4KThBx8iss2FUPBzll4b&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=881b92d60aa78da775f7f5b8ddbc70b9&oe=5F124F84"
+                      }
+                  },
+                  {
+                      "type": "image",
+                      "payload": {
+                          "url": "https://scontent.xx.fbcdn.net/v/t1.15752-9/104040551_668298447083769_3051697106984285703_n.jpg?_nc_cat=107&_nc_sid=b96e70&_nc_oc=AQn737MuRDBwbiLk0EvRA-OhlZnDM4yt8DXvASXq3mejZvaM8YelhHa3IZG_V3YWjWfjmqiBPTx0HC7OgtKOZS4_&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=b6076bd0beaa110e9140939450176807&oe=5F1074BF"
+                      }
+                  }
+              ]
+          }
+      },
+      {
+          "sender": {
+              "id": "3539866132696948"
+          },
+          "recipient": {
+              "id": "105304157880429"
+          },
+          "timestamp": 1592529826118,
+          "message": {
+              "mid": "m_GDiV3RM9Tm_iWYqL3G0TkGKASNgVFl09f1aE0qI-xow4amFpXfWOaW3Ehx_dD_0AFcDH8jAylwPhPG33szIm7w",
+              "attachments": [
+                  {
+                      "type": "file",
+                      "payload": {
+                          "url": "https://cdn.fbsbx.com/v/t59.2708-21/103888495_3139922019379750_4826765914042957565_n.docx/Version-Management.docx?_nc_cat=111&_nc_sid=0cab14&_nc_oc=AQmURQiee9uX37ZAu1JrZpSgg7snBbZ2DpV5rFks3VSHCQupaaRADa7AIaQFraeEGWOHjEYScNoZV2KvQWwycOGC&_nc_ht=cdn.fbsbx.com&oh=ec8d106b7e64037217c2478da764b244&oe=5EEDEDBC"
+                      }
+                  }
+              ]
+          }
+      },
+      {
+          "sender": {
+              "id": "3539866132696948"
+          },
+          "recipient": {
+              "id": "105304157880429"
+          },
+          "timestamp": 1592529823774,
+          "message": {
+              "mid": "m_pvEZOYkAZ4MhJ_qbJihSWmKASNgVFl09f1aE0qI-xoy44yB6tyGC2SZqdoVVPlEXtYaBYWcj8C1uDuYbZUeGiQ",
+              "attachments": [
+                  {
+                      "type": "file",
+                      "payload": {
+                          "url": "https://cdn.fbsbx.com/v/t59.2708-21/82670041_919189175215194_5054298419291168877_n.pdf/20200526-Mom-Training-Tim-Support-dan-Engineer.pdf?_nc_cat=103&_nc_sid=0cab14&_nc_oc=AQllHk5gVCoMP5L4lm8eB83s08QLaoT4U6eY-rcF45RkrTr0NlVIhSLC2vPiMrkkIFSlXbF3pUZGldvUj6nJk-Ji&_nc_ht=cdn.fbsbx.com&oh=e990efcd04d5e2146f5e829b24cf8db4&oe=5EEDE175"
+                      }
+                  }
+              ]
+          }
+      }
+    ]
   }
 }
