@@ -97,7 +97,7 @@
       }
     ]
   },
-  "mockMessages": {
+  "chat-histories": {
     "messages": [
         {
           "sender": {
