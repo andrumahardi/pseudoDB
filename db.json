@@ -98,7 +98,7 @@
     ]
   },
   "chat-histories": {
-    "messages": [
+    "results": [
         {
           "sender": {
               "id": "3539866132696948"
