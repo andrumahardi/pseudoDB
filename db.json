@@ -100,143 +100,99 @@
   "chat-histories": {
     "results": [
       {
-        "id": 1,
+        "id": 60,
         "customer": {
           "user_id": "3539866132696948",
           "full_name": "Teguh S. Permadi",
           "profile_pic": "https://platform-lookaside.fbsbx.com/platform/profilepic/?psid=3539866132696948&width=1024&ext=1594690845&hash=AeQtsAq0sWxnymCl",
           "socmed_type": "MESSENGER"
         },
+        "created_by": {
+          "id": 168,
+          "full_name": "teguh permadi sakti",
+          "username": "sakti",
+          "email": "teguh.sakti@lintasmediadanawa.com"
+        },
+        "agent": {
+          "id": 168,
+          "full_name": "teguh permadi sakti",
+          "username": "sakti",
+          "email": "teguh.sakti@lintasmediadanawa.com"
+        },
         "messages_type": "TEXT",
         "socmed_type": "MESSENGER",
         "sender_id": "105304157880429",
-        "message": "lwat postman",
+        "message": "Hi! May I help you?",
         "is_customer": false,
         "is_active": true,
         "is_delete": false,
         "created_date": "2020-06-19T13:07:13.901673+07:00",
         "last_modified_date": null,
         "tenant": 1,
-        "agent": {
-          "id": 1,
-          "full_name": "nama panjaaaaaang"
-        },
-        "created_by": {
-          "id": "1",
-          "full_name": "asdasasdasdasdasd"
-        },
         "last_modified_by": null
       },
       {
-        "id": 2,
+        "id": 60,
         "customer": {
           "user_id": "3539866132696948",
           "full_name": "Teguh S. Permadi",
           "profile_pic": "https://platform-lookaside.fbsbx.com/platform/profilepic/?psid=3539866132696948&width=1024&ext=1594690845&hash=AeQtsAq0sWxnymCl",
           "socmed_type": "MESSENGER"
         },
+        "created_by": {
+          "id": 168,
+          "full_name": "teguh permadi sakti",
+          "username": "sakti",
+          "email": "teguh.sakti@lintasmediadanawa.com"
+        },
+        "agent": {
+          "id": 168,
+          "full_name": "teguh permadi sakti",
+          "username": "sakti",
+          "email": "teguh.sakti@lintasmediadanawa.com"
+        },
         "messages_type": "TEXT",
         "socmed_type": "MESSENGER",
         "sender_id": "105304157880429",
-        "message": "lwat postman",
-        "is_customer": false,
+        "message": "hello! good night I would like to show you something",
+        "is_customer": true,
         "is_active": true,
         "is_delete": false,
         "created_date": "2020-06-19T13:07:13.901673+07:00",
         "last_modified_date": null,
         "tenant": 1,
-        "agent": {
-          "id": 1,
-          "full_name": "nama panjaaaaaang"
-        },
-        "created_by": {
-          "id": "1",
-          "full_name": "asdasasdasdasdasd"
-        },
         "last_modified_by": null
       },
       {
-        "id": 3,
+        "id": 60,
         "customer": {
           "user_id": "3539866132696948",
           "full_name": "Teguh S. Permadi",
           "profile_pic": "https://platform-lookaside.fbsbx.com/platform/profilepic/?psid=3539866132696948&width=1024&ext=1594690845&hash=AeQtsAq0sWxnymCl",
           "socmed_type": "MESSENGER"
         },
-        "messages_type": "TEXT",
-        "socmed_type": "MESSENGER",
-        "sender_id": "105304157880429",
-        "message": "lwat postman",
-        "is_customer": false,
-        "is_active": true,
-        "is_delete": false,
-        "created_date": "2020-06-19T13:07:13.901673+07:00",
-        "last_modified_date": null,
-        "tenant": 1,
-        "agent": {
-          "id": 1,
-          "full_name": "nama panjaaaaaang"
-        },
         "created_by": {
-          "id": "1",
-          "full_name": "asdasasdasdasdasd"
+          "id": 168,
+          "full_name": "teguh permadi sakti",
+          "username": "sakti",
+          "email": "teguh.sakti@lintasmediadanawa.com"
         },
-        "last_modified_by": null
-      },
-      {
-        "id": 4,
-        "customer": {
-          "user_id": "3539866132696948",
-          "full_name": "Teguh S. Permadi",
-          "profile_pic": "https://platform-lookaside.fbsbx.com/platform/profilepic/?psid=3539866132696948&width=1024&ext=1594690845&hash=AeQtsAq0sWxnymCl",
-          "socmed_type": "MESSENGER"
-        },
-        "messages_type": "TEXT",
-        "socmed_type": "MESSENGER",
-        "sender_id": "105304157880429",
-        "message": "lwat postman",
-        "is_customer": false,
-        "is_active": true,
-        "is_delete": false,
-        "created_date": "2020-06-19T13:07:13.901673+07:00",
-        "last_modified_date": null,
-        "tenant": 1,
         "agent": {
-          "id": 1,
-          "full_name": "nama panjaaaaaang"
-        },
-        "created_by": {
-          "id": "1",
-          "full_name": "asdasasdasdasdasd"
-        },
-        "last_modified_by": null
-      },
-      {
-        "id": 5,
-        "customer": {
-          "user_id": "3539866132696948",
-          "full_name": "Teguh S. Permadi",
-          "profile_pic": "https://platform-lookaside.fbsbx.com/platform/profilepic/?psid=3539866132696948&width=1024&ext=1594690845&hash=AeQtsAq0sWxnymCl",
-          "socmed_type": "MESSENGER"
+          "id": 168,
+          "full_name": "teguh permadi sakti",
+          "username": "sakti",
+          "email": "teguh.sakti@lintasmediadanawa.com"
         },
         "messages_type": "ATTACHMENT",
         "socmed_type": "MESSENGER",
         "sender_id": "105304157880429",
         "message": "https://scontent.xx.fbcdn.net/v/t1.15752-9/104478562_725989284819140_6503934961170391147_n.png?_nc_cat=108&_nc_sid=b96e70&_nc_oc=AQlQUJBtoNPvBVsc2vObRAeSPNmSxh9pZy0nyjsK5qAEuazwdxn6tw2V6qR5a9YCg-8-4KThBx8iss2FUPBzll4b&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=881b92d60aa78da775f7f5b8ddbc70b9&oe=5F124F84",
-        "is_customer": false,
+        "is_customer": true,
         "is_active": true,
         "is_delete": false,
         "created_date": "2020-06-19T13:07:13.901673+07:00",
         "last_modified_date": null,
         "tenant": 1,
-        "agent": {
-          "id": 1,
-          "full_name": "nama panjaaaaaang"
-        },
-        "created_by": {
-          "id": "1",
-          "full_name": "asdasasdasdasdasd"
-        },
         "last_modified_by": null
       }
     ]
