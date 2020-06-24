@@ -18,15 +18,9 @@
         "agent": null,
         "messages_type": "TEXT",
         "socmed_type": "MESSENGER",
-        "sender_id": "105304157880429",
         "message": "nxzmxnzmxnz nmxcnxmcxcx njcxmcxcmxc nnnncxc jhcxjhcxc",
         "is_customer": false,
-        "is_active": true,
-        "is_delete": false,
-        "created_date": "2020-06-24T16:03:57.401740+07:00",
-        "last_modified_date": null,
-        "tenant": 1,
-        "last_modified_by": null
+        "created_date": "2020-06-24T16:03:57.401740+07:00"
       },
       {
         "id": 2,
@@ -40,15 +34,9 @@
         "agent": null,
         "messages_type": "ATTACHMENT",
         "socmed_type": "MESSENGER",
-        "sender_id": "105304157880429",
         "message": "https://scontent.xx.fbcdn.net/v/t1.15752-9/104478562_725989284819140_6503934961170391147_n.png?_nc_cat=108&_nc_sid=b96e70&_nc_oc=AQlQUJBtoNPvBVsc2vObRAeSPNmSxh9pZy0nyjsK5qAEuazwdxn6tw2V6qR5a9YCg-8-4KThBx8iss2FUPBzll4b&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=881b92d60aa78da775f7f5b8ddbc70b9&oe=5F124F84",
         "is_customer": true,
-        "is_active": true,
-        "is_delete": false,
-        "created_date": "2020-06-24T16:02:47.780406+07:00",
-        "last_modified_date": null,
-        "tenant": 1,
-        "last_modified_by": null
+        "created_date": "2020-06-24T16:02:47.780406+07:00"
       },
       {
         "id": 3,
@@ -67,15 +55,9 @@
         "agent": null,
         "messages_type": "TEXT",
         "socmed_type": "MESSENGER",
-        "sender_id": "105304157880429",
         "message": "nxzmxnzmxnz nmxcnxmcxcx njcxmcxcmxc nnnncxc jhcxjhcxc",
         "is_customer": false,
-        "is_active": true,
-        "is_delete": false,
-        "created_date": "2020-06-24T16:03:57.401740+07:00",
-        "last_modified_date": null,
-        "tenant": 1,
-        "last_modified_by": null
+        "created_date": "2020-06-24T16:03:57.401740+07:00"
       },
       {
         "id": 4,
@@ -89,15 +71,9 @@
         "agent": null,
         "messages_type": "ATTACHMENT",
         "socmed_type": "MESSENGER",
-        "sender_id": "105304157880429",
         "message": "https://scontent.xx.fbcdn.net/v/t1.15752-9/104478562_725989284819140_6503934961170391147_n.png?_nc_cat=108&_nc_sid=b96e70&_nc_oc=AQlQUJBtoNPvBVsc2vObRAeSPNmSxh9pZy0nyjsK5qAEuazwdxn6tw2V6qR5a9YCg-8-4KThBx8iss2FUPBzll4b&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=881b92d60aa78da775f7f5b8ddbc70b9&oe=5F124F84",
         "is_customer": true,
-        "is_active": true,
-        "is_delete": false,
-        "created_date": "2020-06-24T16:02:47.780406+07:00",
-        "last_modified_date": null,
-        "tenant": 1,
-        "last_modified_by": null
+        "created_date": "2020-06-24T16:02:47.780406+07:00"
       },
       {
         "id": 5,
@@ -116,15 +92,9 @@
         "agent": null,
         "messages_type": "TEXT",
         "socmed_type": "MESSENGER",
-        "sender_id": "105304157880429",
         "message": "nxzmxnzmxnz nmxcnxmcxcx njcxmcxcmxc nnnncxc jhcxjhcxc",
         "is_customer": false,
-        "is_active": true,
-        "is_delete": false,
-        "created_date": "2020-06-24T16:03:57.401740+07:00",
-        "last_modified_date": null,
-        "tenant": 1,
-        "last_modified_by": null
+        "created_date": "2020-06-24T16:03:57.401740+07:00"
       },
       {
         "id": 6,
@@ -141,15 +111,9 @@
         },
         "messages_type": "ATTACHMENT",
         "socmed_type": "MESSENGER",
-        "sender_id": "105304157880429",
         "message": "https://scontent.xx.fbcdn.net/v/t1.15752-9/104478562_725989284819140_6503934961170391147_n.png?_nc_cat=108&_nc_sid=b96e70&_nc_oc=AQlQUJBtoNPvBVsc2vObRAeSPNmSxh9pZy0nyjsK5qAEuazwdxn6tw2V6qR5a9YCg-8-4KThBx8iss2FUPBzll4b&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=881b92d60aa78da775f7f5b8ddbc70b9&oe=5F124F84",
         "is_customer": true,
-        "is_active": true,
-        "is_delete": false,
-        "created_date": "2020-06-24T16:02:47.780406+07:00",
-        "last_modified_date": null,
-        "tenant": 1,
-        "last_modified_by": null
+        "created_date": "2020-06-24T16:02:47.780406+07:00"
       },
       {
         "id": 7,
@@ -171,15 +135,9 @@
         },
         "messages_type": "TEXT",
         "socmed_type": "MESSENGER",
-        "sender_id": "105304157880429",
         "message": "nxzmxnzmxnz nmxcnxmcxcx njcxmcxcmxc nnnncxc jhcxjhcxc",
         "is_customer": false,
-        "is_active": true,
-        "is_delete": false,
-        "created_date": "2020-06-24T16:03:57.401740+07:00",
-        "last_modified_date": null,
-        "tenant": 1,
-        "last_modified_by": null
+        "created_date": "2020-06-24T16:03:57.401740+07:00"
       },
       {
         "id": 8,
@@ -196,15 +154,9 @@
         },
         "messages_type": "ATTACHMENT",
         "socmed_type": "MESSENGER",
-        "sender_id": "105304157880429",
         "message": "https://scontent.xx.fbcdn.net/v/t1.15752-9/104478562_725989284819140_6503934961170391147_n.png?_nc_cat=108&_nc_sid=b96e70&_nc_oc=AQlQUJBtoNPvBVsc2vObRAeSPNmSxh9pZy0nyjsK5qAEuazwdxn6tw2V6qR5a9YCg-8-4KThBx8iss2FUPBzll4b&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=881b92d60aa78da775f7f5b8ddbc70b9&oe=5F124F84",
         "is_customer": true,
-        "is_active": true,
-        "is_delete": false,
-        "created_date": "2020-06-24T16:02:47.780406+07:00",
-        "last_modified_date": null,
-        "tenant": 1,
-        "last_modified_by": null
+        "created_date": "2020-06-24T16:02:47.780406+07:00"
       },
       {
         "id": 9,
@@ -221,15 +173,9 @@
         },
         "messages_type": "TEXT",
         "socmed_type": "MESSENGER",
-        "sender_id": "105304157880429",
         "message": "nxzmxnzmxnz nmxcnxmcxcx njcxmcxcmxc nnnncxc jhcxjhcxc",
         "is_customer": false,
-        "is_active": true,
-        "is_delete": false,
-        "created_date": "2020-06-24T16:03:57.401740+07:00",
-        "last_modified_date": null,
-        "tenant": 1,
-        "last_modified_by": null
+        "created_date": "2020-06-24T16:03:57.401740+07:00"
       },
       {
         "id": 10,
@@ -246,15 +192,9 @@
         },
         "messages_type": "ATTACHMENT",
         "socmed_type": "MESSENGER",
-        "sender_id": "105304157880429",
         "message": "https://scontent.xx.fbcdn.net/v/t1.15752-9/104478562_725989284819140_6503934961170391147_n.png?_nc_cat=108&_nc_sid=b96e70&_nc_oc=AQlQUJBtoNPvBVsc2vObRAeSPNmSxh9pZy0nyjsK5qAEuazwdxn6tw2V6qR5a9YCg-8-4KThBx8iss2FUPBzll4b&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=881b92d60aa78da775f7f5b8ddbc70b9&oe=5F124F84",
         "is_customer": true,
-        "is_active": true,
-        "is_delete": false,
-        "created_date": "2020-06-24T16:02:47.780406+07:00",
-        "last_modified_date": null,
-        "tenant": 1,
-        "last_modified_by": null
+        "created_date": "2020-06-24T16:02:47.780406+07:00"
       },
       {
         "id": 11,
@@ -271,15 +211,9 @@
         },
         "messages_type": "TEXT",
         "socmed_type": "MESSENGER",
-        "sender_id": "105304157880429",
         "message": "nxzmxnzmxnz nmxcnxmcxcx njcxmcxcmxc nnnncxc jhcxjhcxc",
         "is_customer": false,
-        "is_active": true,
-        "is_delete": false,
-        "created_date": "2020-06-24T16:03:57.401740+07:00",
-        "last_modified_date": null,
-        "tenant": 1,
-        "last_modified_by": null
+        "created_date": "2020-06-24T16:03:57.401740+07:00"
       },
       {
         "id": 12,
@@ -296,15 +230,9 @@
         },
         "messages_type": "ATTACHMENT",
         "socmed_type": "MESSENGER",
-        "sender_id": "105304157880429",
         "message": "https://scontent.xx.fbcdn.net/v/t1.15752-9/104478562_725989284819140_6503934961170391147_n.png?_nc_cat=108&_nc_sid=b96e70&_nc_oc=AQlQUJBtoNPvBVsc2vObRAeSPNmSxh9pZy0nyjsK5qAEuazwdxn6tw2V6qR5a9YCg-8-4KThBx8iss2FUPBzll4b&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=881b92d60aa78da775f7f5b8ddbc70b9&oe=5F124F84",
         "is_customer": true,
-        "is_active": true,
-        "is_delete": false,
-        "created_date": "2020-06-24T16:02:47.780406+07:00",
-        "last_modified_date": null,
-        "tenant": 1,
-        "last_modified_by": null
+        "created_date": "2020-06-24T16:02:47.780406+07:00"
       },
       {
         "id": 13,
@@ -321,15 +249,9 @@
         },
         "messages_type": "ATTACHMENT",
         "socmed_type": "MESSENGER",
-        "sender_id": "105304157880429",
         "message": "https://scontent.xx.fbcdn.net/v/t1.15752-9/104478562_725989284819140_6503934961170391147_n.png?_nc_cat=108&_nc_sid=b96e70&_nc_oc=AQlQUJBtoNPvBVsc2vObRAeSPNmSxh9pZy0nyjsK5qAEuazwdxn6tw2V6qR5a9YCg-8-4KThBx8iss2FUPBzll4b&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=881b92d60aa78da775f7f5b8ddbc70b9&oe=5F124F84",
         "is_customer": true,
-        "is_active": true,
-        "is_delete": false,
-        "created_date": "2020-06-24T16:02:47.780406+07:00",
-        "last_modified_date": null,
-        "tenant": 1,
-        "last_modified_by": null
+        "created_date": "2020-06-24T16:02:47.780406+07:00"
       },
       {
         "id": 14,
@@ -346,15 +268,9 @@
         },
         "messages_type": "TEXT",
         "socmed_type": "MESSENGER",
-        "sender_id": "105304157880429",
         "message": "nxzmxnzmxnz nmxcnxmcxcx njcxmcxcmxc nnnncxc jhcxjhcxc",
         "is_customer": false,
-        "is_active": true,
-        "is_delete": false,
-        "created_date": "2020-06-24T16:03:57.401740+07:00",
-        "last_modified_date": null,
-        "tenant": 1,
-        "last_modified_by": null
+        "created_date": "2020-06-24T16:03:57.401740+07:00"
       },
       {
         "id": 15,
@@ -371,15 +287,9 @@
         },
         "messages_type": "ATTACHMENT",
         "socmed_type": "MESSENGER",
-        "sender_id": "105304157880429",
         "message": "https://scontent.xx.fbcdn.net/v/t1.15752-9/104478562_725989284819140_6503934961170391147_n.png?_nc_cat=108&_nc_sid=b96e70&_nc_oc=AQlQUJBtoNPvBVsc2vObRAeSPNmSxh9pZy0nyjsK5qAEuazwdxn6tw2V6qR5a9YCg-8-4KThBx8iss2FUPBzll4b&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=881b92d60aa78da775f7f5b8ddbc70b9&oe=5F124F84",
         "is_customer": true,
-        "is_active": true,
-        "is_delete": false,
-        "created_date": "2020-06-24T16:02:47.780406+07:00",
-        "last_modified_date": null,
-        "tenant": 1,
-        "last_modified_by": null
+        "created_date": "2020-06-24T16:02:47.780406+07:00"
       }
     ]
   }
