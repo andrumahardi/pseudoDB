@@ -9,12 +9,6 @@
           "profile_pic": "https://platform-lookaside.fbsbx.com/platform/profilepic/?psid=3213346662019597&width=1024&ext=1595390317&hash=AeR5yJz1BrR4v3XB",
           "socmed_type": "MESSENGER"
         },
-        "created_by": {
-          "id": 3,
-          "full_name": "rahmad hidayat",
-          "username": "rahmad76",
-          "email": "rahmad76@gmail.com"
-        },
         "agent": null,
         "messages_type": "ATTACHMENT",
         "socmed_type": "MESSENGER",
@@ -30,7 +24,6 @@
           "profile_pic": "https://platform-lookaside.fbsbx.com/platform/profilepic/?psid=3539866132696948&width=1024&ext=1594780686&hash=AeScKrFSI6-xVpbs",
           "socmed_type": "MESSENGER"
         },
-        "created_by": null,
         "agent": {
           "id": "12345",
           "name": "agent 1"
@@ -48,12 +41,6 @@
           "full_name": "Charlie",
           "profile_pic": "https://platform-lookaside.fbsbx.com/platform/profilepic/?psid=3213346662019597&width=1024&ext=1595390317&hash=AeR5yJz1BrR4v3XB",
           "socmed_type": "MESSENGER"
-        },
-        "created_by": {
-          "id": 3,
-          "full_name": "rahmad hidayat",
-          "username": "rahmad76",
-          "email": "rahmad76@gmail.com"
         },
         "agent": {
           "id": "105304157880429",
