@@ -16,10 +16,10 @@
           "email": "rahmad76@gmail.com"
         },
         "agent": null,
-        "messages_type": "TEXT",
+        "messages_type": "ATTACHMENT",
         "socmed_type": "MESSENGER",
         "message": "https://scontent.xx.fbcdn.net/v/t1.15752-9/104478562_725989284819140_6503934961170391147_n.png?_nc_cat=108&_nc_sid=b96e70&_nc_oc=AQlQUJBtoNPvBVsc2vObRAeSPNmSxh9pZy0nyjsK5qAEuazwdxn6tw2V6qR5a9YCg-8-4KThBx8iss2FUPBzll4b&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=881b92d60aa78da775f7f5b8ddbc70b9&oe=5F124F84",
-        "is_customer": false,
+        "is_customer": true,
         "created_date": "2020-06-24T16:03:57.401740+07:00"
       },
       {
@@ -38,7 +38,7 @@
         "messages_type": "ATTACHMENT",
         "socmed_type": "MESSENGER",
         "message": "https://scontent.xx.fbcdn.net/v/t1.15752-9/business_process.pdf?_nc_cat=108&_nc_sid=b96e70&_nc_oc=AQlQUJBtoNPvBVsc2vObRAeSPNmSxh9pZy0nyjsK5qAEuazwdxn6tw2V6qR5a9YCg-8-4KThBx8iss2FUPBzll4b&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=881b92d60aa78da775f7f5b8ddbc70b9&oe=5F124F84",
-        "is_customer": false,
+        "is_customer": true,
         "created_date": "2020-06-24T16:02:47.780406+07:00"
       },
       {
@@ -62,7 +62,7 @@
         "messages_type": "TEXT",
         "socmed_type": "MESSENGER",
         "message": "Hello sir, I have a complaint regarding on going marketing challenge",
-        "is_customer": false,
+        "is_customer": true,
         "created_date": "2020-06-24T16:03:57.401740+07:00"
       }
     ]
